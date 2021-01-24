@@ -1,0 +1,51 @@
+#container1{
+  height: 600px;
+  width: 800px;
+  background-color: #0001c2;
+  border: solid;
+  border-width: 5px;
+}
+#lingobord{
+  height: 800px;
+  width: 800px;
+  background-color: #002aff;
+  position: absolute;
+  left: 1000px;
+  border: solid;
+  border-width: 5px;
+}
+#lingobord > button{
+  height: 150px;
+  width: 150px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+  float: left;
+}
+#lingobord > button{
+  font-size: 40px;
+}
+body{
+  background-color: #000159;
+}
+#box > button{
+  margin-top: 10px;
+  height: 75px;
+  width: 75px;
+  border-color: black;
+  border-width: 2px;
+  background-color: white;
+  font-size: 20px;
+  top: 0px;
+
+
+}
+#container{
+ position: absolute;
+ left:  135px;
+ top: 60px;
+ border: solid;
+ border-width: 5px;
+}
